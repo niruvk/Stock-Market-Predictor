@@ -31,6 +31,8 @@ The Smart Stock Price Forecasting Tool
 - Predict: Click on "Predict" to generate the 30-day stock price forecast.
 - View Results: The predicted stock prices will be displayed in an interactive graph.
 
+![Stock Predictor](https://github.com/niruvk/Stock-Market-Predictor/assets/146689101/8e591bc7-d6ed-4908-9678-6d72fefc2273)
+
 # Credits
 - Niranjan Vijaya Krishnan (nv2608@princeton.edu)
 - Amal Ronak (amal.ronak@psu.edu)
